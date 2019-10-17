@@ -1,5 +1,4 @@
-# jimpan0612
-ABOUT ME
+# ABOUT ME
 
 潘俊妟
 
