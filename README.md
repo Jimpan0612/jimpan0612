@@ -80,10 +80,3 @@ When I'm not coding, you can find me [a few hobbies or interests outside of work
 **Email:** [your.email@example.com]
 
 When I'm not coding, you can find me [a few hobbies or interests outside of work].
-
-## ![Contact](https://via.placeholder.com/15/3498db/000000?text=+) Contact
-
-[![LinkedIn](https://via.placeholder.com/24/3498db/000000?text=+)](https://www.linkedin.com/in/yourprofile)  
-[![GitHub](https://via.placeholder.com/24/3498db/000000?text=+)](https://github.com/yourprofile)  
-[![Twitter](https://via.placeholder.com/24/3498db/000000?text=+)](https://twitter.com/yourprofile)  
-**Email:** [your.email@example.com]
