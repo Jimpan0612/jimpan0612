@@ -104,7 +104,3 @@ When I'm not coding, you can find me enjoying activities such as hiking, swimmin
 [![Personal Website](https://img.shields.io/badge/-Website-00A0DC?style=flat-square&logo=internet-explorer&logoColor=white)](https://jimpan0612.github.io)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
 **Email:** debit_skates.0d@icloud.com
-
----
-
-## ![Summary](https://via.placeholder.com/15/3498db
