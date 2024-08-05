@@ -3,7 +3,7 @@
 ![CHUN-YEN PAN](https://via.placeholder.com/150)  
 **Hi, I'm Chun-Yen Pan (潘俊妟), a passionate Data Analyst with a knack for Social Data Analytics and Research.**
 
-I have a background in Political Science and Big Data Analysis from Soochow University in Taiwan. Additionally, I hold a Master of Science in Social Data Analytics and Research from UTD. Throughout my academic journey, I have developed a strong foundation in data analysis (R, Python) and its application in social settings. These programs have sharpened my analytical skills and taught me how to effectively link digital insights with international politics. My goal is to develop visualizations that can enhance the impact of research outcomes. I am eager to contribute to resolving international conflicts through my work in data-driven policy analysis.
+I have a background in Political Science and Big Data Analysis from Soochow University in Taiwan. Additionally, I hold a Master of Science in Social Data Analytics and Research from UTD. Throughout my academic journey, I have developed a strong foundation in data analysis (R, Python) and its application in social settings. My goal is to develop visualizations that can enhance the impact of research outcomes. I am eager to contribute to resolving international conflicts through my work in data-driven policy analysis.
 
 ---
 
@@ -32,7 +32,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ## ![Course Projects](https://via.placeholder.com/15/3498db/000000?text=+) Course Projects
 
 ### Deep Learning
-- 2023.2 ~ 2023.6 - **Deep Learning for Natural Language Processing - Final Project**
+- **Deep Learning for Natural Language Processing - Final Project**
   - **Topic:** Sentiment Analysis on Social Media
   - **Language:** Python
   - **Keyword:** NLP, Sentiment Analysis, Social Media
@@ -40,7 +40,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
   - [Code](https://github.com/yourprofile/deep-learning-nlp)
 
 ### Machine Learning
-- 2022.9 ~ 2022.12 - **Machine Learning - Midterm Project**
+- **Machine Learning - Midterm Project**
   - **Topic:** Predicting Stock Prices
   - **Language:** Python
   - **Keyword:** Regression, Stock Market
@@ -48,7 +48,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
   - [Code](https://github.com/yourprofile/machine-learning-stock-prediction)
 
 ### Visualization
-- 2022.2 ~ 2022.6 - **Information Visualization - Final Project**
+- **Information Visualization - Final Project**
   - **Topic:** U-Bike Inventory Information Visualization
   - **Language:** Javascript, Python
   - **Keyword:** youbike, time-series
@@ -56,7 +56,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
   - [Code](https://github.com/yourprofile/u-bike-visualization)
 
 ### Other
-- 2023.1 ~ 2023.5 - **Big Data Analysis - Course Project**
+- **Big Data Analysis - Course Project**
   - **Topic:** Analysis of Global Warming Trends
   - **Language:** R
   - **Keyword:** Big Data, Climate Change
