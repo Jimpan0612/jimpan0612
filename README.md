@@ -32,36 +32,48 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ## ![Course Projects](https://via.placeholder.com/15/3498db/000000?text=+) Course Projects
 
 ### Deep Learning
-- **Deep Learning for Natural Language Processing - Final Project**
+<details>
+  <summary style="color:blue;cursor:pointer;">Details</summary>
+  - **Deep Learning for Natural Language Processing - Final Project**
   - **Topic:** Sentiment Analysis on Social Media
   - **Language:** Python
   - **Keyword:** NLP, Sentiment Analysis, Social Media
   - **Tool:** TensorFlow, Keras
   - [Code](https://github.com/yourprofile/deep-learning-nlp)
+</details>
 
 ### Machine Learning
-- **Machine Learning - Midterm Project**
+<details>
+  <summary style="color:blue;cursor:pointer;">Details</summary>
+  - **Machine Learning - Midterm Project**
   - **Topic:** Predicting Stock Prices
   - **Language:** Python
   - **Keyword:** Regression, Stock Market
   - **Tool:** scikit-learn, pandas
   - [Code](https://github.com/yourprofile/machine-learning-stock-prediction)
+</details>
 
 ### Visualization
-- **Information Visualization - Final Project**
+<details>
+  <summary style="color:blue;cursor:pointer;">Details</summary>
+  - **Information Visualization - Final Project**
   - **Topic:** U-Bike Inventory Information Visualization
   - **Language:** Javascript, Python
   - **Keyword:** youbike, time-series
   - **Tool:** D3.js, Bootstrap, Jquery, Leaflet
   - [Code](https://github.com/yourprofile/u-bike-visualization)
+</details>
 
 ### Other
-- **Big Data Analysis - Course Project**
+<details>
+  <summary style="color:blue;cursor:pointer;">Details</summary>
+  - **Big Data Analysis - Course Project**
   - **Topic:** Analysis of Global Warming Trends
   - **Language:** R
   - **Keyword:** Big Data, Climate Change
   - **Tool:** ggplot2, dplyr
   - [Code](https://github.com/yourprofile/global-warming-analysis)
+</details>
 
 ---
 
@@ -81,6 +93,6 @@ When I'm not coding, you can find me enjoying activities such as hiking, swimmin
 ## ![Contact](https://via.placeholder.com/15/3498db/000000?text=+) Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chun-yen-pan-7867b0318)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourprofile)  
+[![Personal Website](https://img.shields.io/badge/-Website-181717?style=flat-square&logo=github&logoColor=white)](https://jimpan0612.github.io)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
 **Email:** your.email@example.com
