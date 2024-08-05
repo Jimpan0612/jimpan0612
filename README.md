@@ -34,45 +34,53 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ### Deep Learning
 <details>
   <summary style="color:blue;cursor:pointer;">Details</summary>
-  - **Deep Learning for Natural Language Processing - Final Project**
-  - **Topic:** Sentiment Analysis on Social Media
-  - **Language:** Python
-  - **Keyword:** NLP, Sentiment Analysis, Social Media
-  - **Tool:** TensorFlow, Keras
-  - [Code](https://github.com/yourprofile/deep-learning-nlp)
+  <div>
+    <strong>Deep Learning for Natural Language Processing - Final Project</strong><br>
+    <strong>Topic:</strong> Sentiment Analysis on Social Media<br>
+    <strong>Language:</strong> Python<br>
+    <strong>Keyword:</strong> NLP, Sentiment Analysis, Social Media<br>
+    <strong>Tool:</strong> TensorFlow, Keras<br>
+    <a href="https://github.com/yourprofile/deep-learning-nlp">Code</a>
+  </div>
 </details>
 
 ### Machine Learning
 <details>
   <summary style="color:blue;cursor:pointer;">Details</summary>
-  - **Machine Learning - Midterm Project**
-  - **Topic:** Predicting Stock Prices
-  - **Language:** Python
-  - **Keyword:** Regression, Stock Market
-  - **Tool:** scikit-learn, pandas
-  - [Code](https://github.com/yourprofile/machine-learning-stock-prediction)
+  <div>
+    <strong>Machine Learning - Midterm Project</strong><br>
+    <strong>Topic:</strong> Predicting Stock Prices<br>
+    <strong>Language:</strong> Python<br>
+    <strong>Keyword:</strong> Regression, Stock Market<br>
+    <strong>Tool:</strong> scikit-learn, pandas<br>
+    <a href="https://github.com/yourprofile/machine-learning-stock-prediction">Code</a>
+  </div>
 </details>
 
 ### Visualization
 <details>
   <summary style="color:blue;cursor:pointer;">Details</summary>
-  - **Information Visualization - Final Project**
-  - **Topic:** U-Bike Inventory Information Visualization
-  - **Language:** Javascript, Python
-  - **Keyword:** youbike, time-series
-  - **Tool:** D3.js, Bootstrap, Jquery, Leaflet
-  - [Code](https://github.com/yourprofile/u-bike-visualization)
+  <div>
+    <strong>Information Visualization - Final Project</strong><br>
+    <strong>Topic:</strong> U-Bike Inventory Information Visualization<br>
+    <strong>Language:</strong> Javascript, Python<br>
+    <strong>Keyword:</strong> youbike, time-series<br>
+    <strong>Tool:</strong> D3.js, Bootstrap, Jquery, Leaflet<br>
+    <a href="https://github.com/yourprofile/u-bike-visualization">Code</a>
+  </div>
 </details>
 
 ### Other
 <details>
   <summary style="color:blue;cursor:pointer;">Details</summary>
-  - **Big Data Analysis - Course Project**
-  - **Topic:** Analysis of Global Warming Trends
-  - **Language:** R
-  - **Keyword:** Big Data, Climate Change
-  - **Tool:** ggplot2, dplyr
-  - [Code](https://github.com/yourprofile/global-warming-analysis)
+  <div>
+    <strong>Big Data Analysis - Course Project</strong><br>
+    <strong>Topic:</strong> Analysis of Global Warming Trends<br>
+    <strong>Language:</strong> R<br>
+    <strong>Keyword:</strong> Big Data, Climate Change<br>
+    <strong>Tool:</strong> ggplot2, dplyr<br>
+    <a href="https://github.com/yourprofile/global-warming-analysis">Code</a>
+  </div>
 </details>
 
 ---
@@ -86,13 +94,13 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 ## ![Interests](https://via.placeholder.com/15/3498db/000000?text=+) Interests
 
-When I'm not coding, you can find me enjoying activities such as hiking, swimming, reading about international relations, and exploring new data visualization techniques. I am also actively learning and using ComfyUI for creating AI animations and various other applications. My workflow with ComfyUI involves complex tasks like video upscaling and detailed data processing, leveraging my expertise in data analysis to produce high-quality outputs.
+When I'm not coding, you can find me enjoying activities such as hiking, swimming, reading about international news, and exploring new data visualization techniques. I am also actively learning and using ComfyUI for creating AI animations, images and various other applications. My workflow with ComfyUI involves complex tasks like video upscaling and detailed data processing, leveraging my expertise in data analysis to produce high-quality outputs.
 
 ---
 
 ## ![Contact](https://via.placeholder.com/15/3498db/000000?text=+) Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chun-yen-pan-7867b0318)  
-[![Personal Website](https://img.shields.io/badge/-Website-181717?style=flat-square&logo=github&logoColor=white)](https://jimpan0612.github.io)  
+[![Personal Website](https://img.shields.io/badge/-Website-00A0DC?style=flat-square&logo=internet-explorer&logoColor=white)](https://jimpan0612.github.io)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
-**Email:** your.email@example.com
+**Email:** debit_skates.0d@icloud.com
