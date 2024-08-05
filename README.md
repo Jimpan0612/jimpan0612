@@ -101,6 +101,6 @@ When I'm not coding, you can find me enjoying activities such as hiking, swimmin
 ## ![Contact](https://via.placeholder.com/15/3498db/000000?text=+) Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chun-yen-pan-7867b0318)  
-[![Personal Website](https://img.shields.io/badge/-Website-00A0DC?style=flat-square&logo=internet-explorer&logoColor=white)](https://jimpan0612.github.io)  
+[![Personal MyWebsite](https://img.shields.io/badge/-Website-00A0DC?style=flat-square&logo=internet-explorer&logoColor=white)](https://jimpan0612.github.io)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
 **Email:** debit_skates.0d@icloud.com
