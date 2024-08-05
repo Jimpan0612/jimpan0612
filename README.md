@@ -7,13 +7,6 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 ---
 
-## ![Professional Background](https://via.placeholder.com/15/2c3e50/000000?text=+) Professional Background
-
-**Current Role:** Seeking Full-time job or internship in social data research or data visualization  
-**Experience:** During my academic journey, I worked on various projects that allowed me to apply my skills in real-world scenarios. For example, I participated in a project where I analyzed social media data to understand public opinion on international conflicts. I also created interactive data visualizations to present my findings, which helped policymakers make informed decisions. I am passionate about using data to tell compelling stories and drive positive change.
-
----
-
 ## ![Skills](https://via.placeholder.com/15/3498db/000000?text=+) Skills
 
 ### Technical Skills
@@ -36,19 +29,39 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 ---
 
-## ![Projects](https://via.placeholder.com/15/3498db/000000?text=+) Projects
+## ![Course Projects](https://via.placeholder.com/15/3498db/000000?text=+) Course Projects
 
-### [Project Name 1]
+### Deep Learning
+- 2023.2 ~ 2023.6 - **Deep Learning for Natural Language Processing - Final Project**
+  - **Topic:** Sentiment Analysis on Social Media
+  - **Language:** Python
+  - **Keyword:** NLP, Sentiment Analysis, Social Media
+  - **Tool:** TensorFlow, Keras
+  - [Code](https://github.com/yourprofile/deep-learning-nlp)
 
-A comprehensive [type of project] focused on [brief description].  
-**Role:** [Your role and contributions]  
-[View Project](#)
+### Machine Learning
+- 2022.9 ~ 2022.12 - **Machine Learning - Midterm Project**
+  - **Topic:** Predicting Stock Prices
+  - **Language:** Python
+  - **Keyword:** Regression, Stock Market
+  - **Tool:** scikit-learn, pandas
+  - [Code](https://github.com/yourprofile/machine-learning-stock-prediction)
 
-### [Project Name 2]
+### Visualization
+- 2022.2 ~ 2022.6 - **Information Visualization - Final Project**
+  - **Topic:** U-Bike Inventory Information Visualization
+  - **Language:** Javascript, Python
+  - **Keyword:** youbike, time-series
+  - **Tool:** D3.js, Bootstrap, Jquery, Leaflet
+  - [Code](https://github.com/yourprofile/u-bike-visualization)
 
-Developed a [type of project] aimed at [brief description].  
-**Role:** [Your role and contributions]  
-[View Project](#)
+### Other
+- 2023.1 ~ 2023.5 - **Big Data Analysis - Course Project**
+  - **Topic:** Analysis of Global Warming Trends
+  - **Language:** R
+  - **Keyword:** Big Data, Climate Change
+  - **Tool:** ggplot2, dplyr
+  - [Code](https://github.com/yourprofile/global-warming-analysis)
 
 ---
 
@@ -61,7 +74,7 @@ Developed a [type of project] aimed at [brief description].
 
 ## ![Interests](https://via.placeholder.com/15/3498db/000000?text=+) Interests
 
-When I'm not coding, you can find me enjoying activities such as hiking, reading about international relations, and exploring new data visualization techniques.
+When I'm not coding, you can find me enjoying activities such as hiking, swimming, reading about international relations, and exploring new data visualization techniques. I am also actively learning and using ComfyUI for creating AI animations and various other applications. My workflow with ComfyUI involves complex tasks like video upscaling and detailed data processing, leveraging my expertise in data analysis to produce high-quality outputs.
 
 ---
 
