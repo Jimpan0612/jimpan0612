@@ -32,7 +32,8 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ## ![Course Projects](https://via.placeholder.com/15/3498db/000000?text=+) Course Projects
 
 ### Python
-
+<details>
+  <summary style="color:blue;cursor:pointer;">Details</summary>
   <div>
     <strong>Data Analysis and Visualization Dashboard - Final Project</strong><br>
     <strong>Topic:</strong> Financial Data and Geopolitical Event Analysis<br>
@@ -42,7 +43,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
     <strong>Tool:</strong> Plotly, Dash<br>
     <a href="https://github.com/yourprofile/python-final-project">Code</a>
   </div>
-
+</details>
 
 ### Machine Learning
 <details>
