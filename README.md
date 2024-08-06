@@ -32,7 +32,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ## ![Course Projects](https://via.placeholder.com/15/3498db/000000?text=+) Course Projects
 
 ### Python
-<details>
+
   <summary style="color:blue;cursor:pointer;">Details</summary>
   <div>
     <strong>Data Analysis and Visualization Dashboard - Final Project</strong><br>
@@ -41,9 +41,8 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
     <strong>Description:</strong> Created a comprehensive data analysis and visualization dashboard using Python, Plotly, and Dash. The dashboard integrates financial data from TSMC and Samsung, as well as geopolitical event data for East Asia.<br>
     <strong>Keyword:</strong> Data Analysis, Visualization, Financial Data, Geopolitical Events<br>
     <strong>Tool:</strong> Plotly, Dash<br>
-    <a href="https://github.com/Jimpan0612/Python-Programming-EPPS-6317-">Code</a>
+    <a href="https://github.com/yourprofile/python-final-project">Code</a>
   </div>
-</details>
 
 
 ### Machine Learning
