@@ -42,12 +42,25 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 
 ### Machine Learning
-**Machine Learning - Midterm Project**  
-**Topic:** Predicting Stock Prices  
-**Language:** Python  
-**Keyword:** Regression, Stock Market  
-**Tool:** scikit-learn, pandas  
-[Code](https://github.com/yourprofile/machine-learning-stock-prediction)
+**Lab 1: Understanding the Variance and Bias Trade-off**  
+**Description:** In this lab, we explored the trade-offs between variance and bias in predictive modeling. The lab involved working with simulated data to understand how different levels of model complexity impact the variance and bias of the model's predictions.  
+[Code&Readme](https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/tree/main/lab1) | [Slide](https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/blob/main/lab1/slides/Lab1.pdf)
+
+**Lab 2: K-means Clustering and PCA**  
+**Description:** This lab focused on implementing K-means clustering and Principal Component Analysis (PCA) for dimensionality reduction. The goal was to group similar data points and reduce the dimensionality of the dataset for better visualization and analysis.  
+[Code&Readme](https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/tree/main/lab2) | [Slide](https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/blob/main/lab2/slides/Lab2.pdf)
+
+**Lab 3: Decision Trees and Random Forests**  
+**Description:** This lab explored decision trees and random forests for classification tasks. We implemented these models on a dataset and compared their performance.  
+[Code&Readme](https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/tree/main/lab3) | [Slide](https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/blob/main/lab3/slides/Lab3.pdf)
+
+**Lab 4: Logistic Regression and ROC Analysis**  
+**Description:** In this lab, we worked on logistic regression for binary classification and performed ROC analysis to evaluate model performance.  
+[Code&Readme](https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/tree/main/lab4) | [Slide](https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/blob/main/lab4/slides/Lab4.pdf)
+
+**Lab 5: Hierarchical Clustering under Spatial Constraints**  
+**Description:** This lab involved hierarchical clustering with spatial constraints to identify homogeneous regions within Texas based on various features.  
+[Code&Readme](https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/tree/main/lab5) | [Slide](https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/blob/main/lab5/slides/Lab5.pdf)
 
 ### Visualization
 **Information Visualization - Final Project**  
