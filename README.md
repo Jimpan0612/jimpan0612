@@ -31,16 +31,16 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 ## ![Course Projects](https://via.placeholder.com/15/3498db/000000?text=+) Course Projects
 
-### Deep Learning
+### Python
 <details>
   <summary style="color:blue;cursor:pointer;">Details</summary>
   <div>
-    <strong>Deep Learning for Natural Language Processing - Final Project</strong><br>
-    <strong>Topic:</strong> Sentiment Analysis on Social Media<br>
+    <strong>Data Analysis and Visualization Dashboard - Final Project</strong><br>
+    <strong>Topic:</strong> Financial Data and Geopolitical Event Analysis<br>
     <strong>Language:</strong> Python<br>
-    <strong>Keyword:</strong> NLP, Sentiment Analysis, Social Media<br>
-    <strong>Tool:</strong> TensorFlow, Keras<br>
-    <a href="https://github.com/yourprofile/deep-learning-nlp">Code</a>
+    <strong>Keyword:</strong> Data Analysis, Visualization, Financial Data, Geopolitical Events<br>
+    <strong>Tool:</strong> Plotly, Dash<br>
+    <a href="https://github.com/Jimpan0612/Python-Programming-EPPS-6317-">Code</a>
   </div>
 </details>
 
