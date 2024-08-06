@@ -41,7 +41,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 
 ### Machine Learning
-**Topic:** Various Machine Learning Techniques Course Labs
+**Topic:** Various Machine Learning Techniques
 **Language:** R  
 **Description:** A series of labs exploring different machine learning techniques, including variance-bias trade-offs, clustering, decision trees, logistic regression, and hierarchical clustering with spatial constraints.  
 **Keyword:** Machine Learning, Clustering, Regression, Decision Trees, PCA  
