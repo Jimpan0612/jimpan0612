@@ -32,45 +32,29 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ## ![Course Projects](https://via.placeholder.com/15/3498db/000000?text=+) Course Projects
 
 ### Python
-<details>
-  <summary style="color:blue;cursor:pointer;">Details</summary>
-  <div>
-    <strong>Data Analysis and Visualization Dashboard - Final Project</strong><br>
-    <strong>Topic:</strong> Financial Data and Geopolitical Event Analysis<br>
-    <strong>Language:</strong> Python<br>
-    <strong>Description:</strong> Created a comprehensive data analysis and visualization dashboard using Python, Plotly, and Dash. The dashboard integrates financial data from TSMC and Samsung, as well as geopolitical event data for East Asia.<br>
-    <strong>Keyword:</strong> Data Analysis, Visualization, Financial Data, Geopolitical Events<br>
-    <strong>Tool:</strong> Plotly, Dash<br>
-    <a href="https://github.com/Jimpan0612/Python-Programming-EPPS-6317-">Code</a>
-  </div>
-</details>
-
+**Data Analysis and Visualization Dashboard - Final Project**  
+**Topic:** Financial Data and Geopolitical Event Analysis  
+**Language:** Python  
+**Description:** Created a comprehensive data analysis and visualization dashboard using Python, Plotly, and Dash. The dashboard integrates financial data from TSMC and Samsung, as well as geopolitical event data for East Asia.  
+**Keyword:** Data Analysis, Visualization, Financial Data, Geopolitical Events  
+**Tool:** Plotly, Dash  
+[Code](https://github.com/Jimpan0612/Python-Programming-EPPS-6317-)
 
 ### Machine Learning
-<details>
-  <summary style="color:blue;cursor:pointer;">Details</summary>
-  <div>
-    <strong>Machine Learning - Midterm Project</strong><br>
-    <strong>Topic:</strong> Predicting Stock Prices<br>
-    <strong>Language:</strong> Python<br>
-    <strong>Keyword:</strong> Regression, Stock Market<br>
-    <strong>Tool:</strong> scikit-learn, pandas<br>
-    <a href="https://github.com/yourprofile/machine-learning-stock-prediction">Code</a>
-  </div>
-</details>
+**Machine Learning - Midterm Project**  
+**Topic:** Predicting Stock Prices  
+**Language:** Python  
+**Keyword:** Regression, Stock Market  
+**Tool:** scikit-learn, pandas  
+[Code](https://github.com/yourprofile/machine-learning-stock-prediction)
 
 ### Visualization
-<details>
-  <summary style="color:blue;cursor:pointer;">Details</summary>
-  <div>
-    <strong>Information Visualization - Final Project</strong><br>
-    <strong>Topic:</strong> U-Bike Inventory Information Visualization<br>
-    <strong>Language:</strong> Javascript, Python<br>
-    <strong>Keyword:</strong> youbike, time-series<br>
-    <strong>Tool:</strong> D3.js, Bootstrap, Jquery, Leaflet<br>
-    <a href="https://github.com/yourprofile/u-bike-visualization">Code</a>
-  </div>
-</details>
+**Information Visualization - Final Project**  
+**Topic:** U-Bike Inventory Information Visualization  
+**Language:** Javascript, Python  
+**Keyword:** youbike, time-series  
+**Tool:** D3.js, Bootstrap, Jquery, Leaflet  
+[Code](https://github.com/yourprofile/u-bike-visualization)
 
 ### Other
 <details>
@@ -102,7 +86,4 @@ When I'm not coding, you can find me enjoying activities such as hiking, swimmin
 
 ## ![Contact](https://via.placeholder.com/15/3498db/000000?text=+) Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chun-yen-pan-7867b0318)  
-[![Personal Website](https://img.shields.io/badge/-Website-00A0DC?style=flat-square&logo=internet-explorer&logoColor=white)](https://jimpan0612.github.io)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
-**Email:** debit_skates.0d@icloud.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chun-yen-pan-7867b0318)​⬤
