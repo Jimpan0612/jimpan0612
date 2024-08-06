@@ -38,7 +38,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 **Description:** Created a comprehensive data analysis and visualization dashboard using Python, Plotly, and Dash. The dashboard integrates financial data from TSMC and Samsung, as well as geopolitical event data for East Asia.  
 **Keyword:** Data Analysis, Visualization, Financial Data, Geopolitical Events  
 **Tool:** Plotly, Dash  
-[Code](https://github.com/Jimpan0612/Python-Programming-EPPS-6317-) | [Slide](https://github.com/Jimpan0612/Python-Programming-EPPS-6317-/blob/main/FinalProject/slides/6317%20Project%20Proposal%20Jim.pdf)
+[Code&Readme](https://github.com/Jimpan0612/Python-Programming-EPPS-6317-) | [Slide](https://github.com/Jimpan0612/Python-Programming-EPPS-6317-/blob/main/FinalProject/slides/6317%20Project%20Proposal%20Jim.pdf)
 
 
 ### Machine Learning
