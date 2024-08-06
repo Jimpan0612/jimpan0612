@@ -52,23 +52,23 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
   <summary style="color:blue;cursor:pointer;">Details</summary>
   <div>
     <strong>Lab 1: Understanding the Variance and Bias Trade-off</strong><br>
-    **Description:** In this lab, we explored the trade-offs between variance and bias in predictive modeling. The lab involved working with simulated data to understand how different levels of model complexity impact the variance and bias of the model's predictions.<br>
+    <strong>Description:</strong> In this lab, we explored the trade-offs between variance and bias in predictive modeling. The lab involved working with simulated data to understand how different levels of model complexity impact the variance and bias of the model's predictions.<br>
     <a href="https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/tree/main/lab1/lab1%20homework">Code</a> | <a href="https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/blob/main/lab1/lab1%20homework/Lab01_Jim.pdf">Slide</a><br>
     <br>
     <strong>Lab 2: K-means Clustering and PCA</strong><br>
-    **Description:** This lab focused on implementing K-means clustering and Principal Component Analysis (PCA) for dimensionality reduction. The goal was to group similar data points and reduce the dimensionality of the dataset for better visualization and analysis.<br>
+    <strong>Description:</strong> This lab focused on implementing K-means clustering and Principal Component Analysis (PCA) for dimensionality reduction. The goal was to group similar data points and reduce the dimensionality of the dataset for better visualization and analysis.<br>
     <a href="https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/tree/main/lab2">Code</a> | <a href="https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/blob/main/lab2/Lab02_Jim.pdf">Slide</a><br>
     <br>
     <strong>Lab 3: Decision Trees and Random Forests</strong><br>
-    **Description:** This lab explored decision trees and random forests for classification tasks. We implemented these models on a dataset and compared their performance.<br>
+    <strong>Description:</strong> This lab explored decision trees and random forests for classification tasks. We implemented these models on a dataset and compared their performance.<br>
     <a href="https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/tree/main/lab3/lab3%20homework">Code</a> | <a href="https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/blob/main/lab3/lab3%20homework/Lab03_Jim.pdf">Slide</a><br>
     <br>
     <strong>Lab 4: Logistic Regression and ROC Analysis</strong><br>
-    **Description:** In this lab, we worked on logistic regression for binary classification and performed ROC analysis to evaluate model performance.<br>
-    <a href="https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/tree/main/lab4/lab4%20hw">Code</a> | <a href="hhttps://github.com/Jimpan0612/Machine-Learning-GISC-6323-/blob/main/lab4/lab4%20hw/Lab04_Jim.pdf">Slide</a><br>
+    <strong>Description:</strong> In this lab, we worked on logistic regression for binary classification and performed ROC analysis to evaluate model performance.<br>
+    <a href="https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/tree/main/lab4/lab4%20hw">Code</a> | <a href="https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/blob/main/lab4/lab4%20hw/Lab04_Jim.pdf">Slide</a><br>
     <br>
     <strong>Lab 5: Hierarchical Clustering under Spatial Constraints</strong><br>
-    **Description:** This lab involved hierarchical clustering with spatial constraints to identify homogeneous regions within Texas based on various features.<br>
+    <strong>Description:</strong> This lab involved hierarchical clustering with spatial constraints to identify homogeneous regions within Texas based on various features.<br>
     <a href="https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/tree/main/lab5">Code</a> | <a href="https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/blob/main/lab5/Lab05MLSpring2023.pdf">Slide</a>
   </div>
 </details>
