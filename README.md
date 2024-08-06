@@ -41,7 +41,8 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 
 ### Machine Learning  
-### Knowledge Mining - Final Project
+
+**Knowledge Mining - Final Project**  
 **Topic:** Predicting Interstate Affinity Using Machine Learning  
 **Language:** R  
 **Description:** This study examines the use of machine learning to predict generalized relationships between states, using the United States as the base of reference. International relations were measured using an aggregate affinity score derived from event data, with various socioeconomic and demographic factors used as predictive variables. Multiple models, including a regression and classification random forest and a deep learning model, were built and evaluated for their accuracy in predicting interstate affinity.  
@@ -71,6 +72,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
     - Deep Learning Model Accuracy: 0.76 after hyperparameter tuning<br>
   </div>
 </details>
+
 
 **Machine Learning Course Labs**  
 **Topic:** Various Machine Learning Techniques  
