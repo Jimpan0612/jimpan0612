@@ -40,8 +40,8 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 [Code&Readme](https://github.com/Jimpan0612/Python-Programming-EPPS-6317-) | [Slide](https://github.com/Jimpan0612/Python-Programming-EPPS-6317-/blob/main/FinalProject/slides/6317%20Project%20Proposal%20Jim.pdf)
 
 
-### Machine Learning Course Labs
-**Topic:** Various Machine Learning Techniques  
+### Machine Learning
+**Topic:** Various Machine Learning Techniques Course Labs
 **Language:** R  
 **Description:** A series of labs exploring different machine learning techniques, including variance-bias trade-offs, clustering, decision trees, logistic regression, and hierarchical clustering with spatial constraints.  
 **Keyword:** Machine Learning, Clustering, Regression, Decision Trees, PCA  
