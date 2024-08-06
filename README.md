@@ -33,7 +33,6 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 ### Python
 
-  <summary style="color:blue;cursor:pointer;">Details</summary>
   <div>
     <strong>Data Analysis and Visualization Dashboard - Final Project</strong><br>
     <strong>Topic:</strong> Financial Data and Geopolitical Event Analysis<br>
