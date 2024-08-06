@@ -53,7 +53,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
   <div>
     <strong>Lab 1: Understanding the Variance and Bias Trade-off</strong><br>
     **Description:** In this lab, we explored the trade-offs between variance and bias in predictive modeling. The lab involved working with simulated data to understand how different levels of model complexity impact the variance and bias of the model's predictions.<br>
-    [Code](https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/tree/main/lab1) | [Slide](https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/blob/main/lab1/slides/Lab1.pdf)<br>
+    [Code](https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/tree/main/lab1/lab1%20homework) | [Slide](https://github.com/Jimpan0612/Machine-Learning-GISC-6323-/blob/main/lab1/lab1%20homework/Lab01_Jim.pdf)<br>
     <br>
     <strong>Lab 2: K-means Clustering and PCA</strong><br>
     **Description:** This lab focused on implementing K-means clustering and Principal Component Analysis (PCA) for dimensionality reduction. The goal was to group similar data points and reduce the dimensionality of the dataset for better visualization and analysis.<br>
