@@ -30,7 +30,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 ## ![Course Projects](https://via.placeholder.com/15/3498db/000000?text=+) Course Projects
 
-### Python
+### Visualization
 **Data Analysis and Visualization Dashboard - Final Project**  
 **Topic:** Financial Data and Geopolitical Event Analysis  
 **Language:** Python  
@@ -83,7 +83,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
   </div>
 </details>
 
-### Visualization
+### SQL
 **Information Visualization - Final Project**  
 **Topic:** U-Bike Inventory Information Visualization  
 **Language:** Javascript, Python  
