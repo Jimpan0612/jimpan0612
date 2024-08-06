@@ -1,6 +1,5 @@
 ## ![About Me](https://via.placeholder.com/15/3498db/000000?text=+) About Me
 
-![CHUN-YEN PAN](https://via.placeholder.com/150)  
 **Hi, I'm Chun-Yen Pan (潘俊妟), a passionate Data Analyst with a knack for Social Data Analytics and Research.**
 
 I have a background in Political Science and Big Data Analysis from Soochow University in Taiwan. Additionally, I hold a Master of Science in Social Data Analytics and Research from UTD. Throughout my academic journey, I have developed a strong foundation in data analysis (R, Python) and its application in social settings. My goal is to develop visualizations that can enhance the impact of research outcomes. I am eager to contribute to resolving international conflicts through my work in data-driven policy analysis.
