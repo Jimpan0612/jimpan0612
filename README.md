@@ -94,12 +94,13 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 </details>
 
 ### SQL
-**Information Visualization - Final Project**  
-**Topic:** U-Bike Inventory Information Visualization  
-**Language:** Javascript, Python  
-**Keyword:** youbike, time-series  
-**Tool:** D3.js, Bootstrap, Jquery, Leaflet  
-[Code](https://github.com/yourprofile/u-bike-visualization)
+**Analysis of Chronic Disease Prescriptions in Major Medical Centers in Taiwan**  
+**Topic:** Database Design and Query Analysis  
+**Language:** SQL  
+**Description:** This project involved analyzing chronic disease prescriptions in major medical centers in Taiwan using SQL and database management techniques. The goal was to understand the distribution of prescriptions across different diseases and hospitals.  
+**Keyword:** SQL, Database Design, Data Analysis, Healthcare  
+**Tool:** SQL  
+[Code](https://github.com/Jimpan0612/Information-Management-EPPS-6354-) | [Report](https://github.com/Jimpan0612/Information-Management-EPPS-6354-/blob/main/Jim_projectreport.pdf) | [Slide](https://github.com/Jimpan0612/Information-Management-EPPS-6354-/blob/main/dashboard_preview.png)
 
 ### Other
 <details>
