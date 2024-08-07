@@ -125,7 +125,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 ## ![Interests](https://via.placeholder.com/15/3498db/000000?text=+) Interests
 
-When I'm not coding, you can find me enjoying activities such as hiking, swimming, reading about international news, and exploring new data visualization techniques. I am also actively learning and using ComfyUI for creating AI animations, images and various other applications. My workflow with ComfyUI involves complex tasks like video upscaling and detailed data processing, leveraging my expertise in data analysis to produce high-quality outputs.
+When I'm not coding, you can find me enjoying activities such as hiking, swimming, reading about international news, and exploring new data visualization techniques. I am also actively learning and using ComfyUI for creating AI animations, images and various other applications. My workflow with ComfyUI involves complex tasks like video upscaling and detailed data processing, leveraging my expertise in data analysis to produce high-quality outputs. Additionally, I enjoy playing Japanese Mahjong and various board games.
 
 ---
 
