@@ -45,7 +45,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 **Language:** Python, Neo4j  
 **Description:** This project analyzes the structure of the online advertising (Adtech) marketplace using data scraped from the ads.txt files of various online news sources. The data was used to create a graph database on Neo4j to map the relationships between publishers and platforms. The study aims to provide insights into the network structure of the Adtech marketplace and support policy discussions on digital platform regulations.  
 **Keyword:** Data Collection, Network Analysis, Digital Advertising, Neo4j  
-[Final Report](https://github.com/Jimpan0612/Data-Collection-and-Production-EPPS-6302/blob/main/Admapper_Project_Report.pdf) | [Code](https://github.com/Jimpan0612/Data-Collection-and-Production-EPPS-6302) | [Presentation](https://github.com/Jimpan0612/Data-Collection-and-Production-EPPS-6302/blob/main/Final%20Presentation.pdf)
+[Code&Readme](https://github.com/Jimpan0612/Data-Collection-and-Production-EPPS-6302-) | [Final Paper](https://github.com/Jimpan0612/Data-Collection-and-Production-EPPS-6302-/blob/main/Admapper_Project_Report.pdf) | [Slide](https://github.com/Jimpan0612/Data-Collection-and-Production-EPPS-6302-/blob/main/Network%20Structure%20of%20the%20Digital%20Advertising%20Marketplace.pdf)
 
 
 
