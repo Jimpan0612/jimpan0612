@@ -22,9 +22,9 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 ### Soft Skills
 
-- ![Collaboration](https://img.shields.io/badge/-Collaboration-2ECC71?style=flat-square)
-- ![Project Management](https://img.shields.io/badge/-Project_Management-E74C3C?style=flat-square)
-- ![Problem Solving](https://img.shields.io/badge/-Problem_Solving-3498DB?style=flat-square)
+![Collaboration](https://img.shields.io/badge/-Collaboration-2ECC71?style=flat-square)
+![Project Management](https://img.shields.io/badge/-Project_Management-E74C3C?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/-Problem_Solving-3498DB?style=flat-square)
 
 ---
 
