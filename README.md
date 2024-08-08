@@ -96,22 +96,22 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ### SQL
 **Analysis of Chronic Disease Prescriptions in Major Medical Centers in Taiwan**  
 **Topic:** Database Design and Query Analysis  
-**Language:** SQL  
+**Language:** SQL, R    
 **Description:** This project involved analyzing chronic disease prescriptions in major medical centers in Taiwan using SQL and database management techniques. The goal was to understand the distribution of prescriptions across different diseases and hospitals.  
 **Keyword:** SQL, Database Design, Data Analysis, Healthcare  
-**Tool:** SQL  
-[Code](https://github.com/Jimpan0612/Information-Management-EPPS-6354-) | [Report](https://github.com/Jimpan0612/Information-Management-EPPS-6354-/blob/main/Jim_projectreport.pdf) | [Slide](https://github.com/Jimpan0612/Information-Management-EPPS-6354-/blob/main/dashboard_preview.png)
+**Tool:** PostgreSQL, DB Browser for SQLite
+[Code](https://github.com/Jimpan0612/Information-Management-EPPS-6354-) | [Final Paper](https://github.com/Jimpan0612/Information-Management-EPPS-6354-/blob/main/Jim_projectreport.pdf) | [Slide](https://github.com/Jimpan0612/Information-Management-EPPS-6354-/blob/main/dashboard_preview.png)
 
 ### Other
 <details>
   <summary style="color:blue;cursor:pointer;">Details</summary>
   <div>
-    <strong>Big Data Analysis - Course Project</strong><br>
-    <strong>Topic:</strong> Analysis of Global Warming Trends<br>
+    <strong>Big Data Analysis - project</strong><br>
+    <strong>Topic:</strong> Analysis of African swine fever<br>
     <strong>Language:</strong> R<br>
     <strong>Keyword:</strong> Big Data, Climate Change<br>
     <strong>Tool:</strong> ggplot2, dplyr<br>
-    <a href="https://github.com/yourprofile/global-warming-analysis">Code</a>
+    <a href="https://github.com/yourprofile/African-swine-fever-analysis">Code</a>
   </div>
 </details>
 
