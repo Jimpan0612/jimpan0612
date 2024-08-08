@@ -26,7 +26,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ![Project Management](https://img.shields.io/badge/-Project_Management-E74C3C?style=flat-square)
 ![Problem Solving](https://img.shields.io/badge/-Problem_Solving-3498DB?style=flat-square)
 
----
+--
 
 ## ![Course Projects](https://via.placeholder.com/15/3498db/000000?text=+) Course Projects
 
