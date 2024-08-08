@@ -26,7 +26,6 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ![Project Management](https://img.shields.io/badge/-Project_Management-E74C3C?style=flat-square)
 ![Problem Solving](https://img.shields.io/badge/-Problem_Solving-3498DB?style=flat-square)
 
---
 
 ## ![Course Projects](https://via.placeholder.com/15/3498db/000000?text=+) Course Projects
 
@@ -48,7 +47,6 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 [Code&Readme](https://github.com/Jimpan0612/Data-Collection-and-Production-EPPS-6302-) | [Final Paper](https://github.com/Jimpan0612/Data-Collection-and-Production-EPPS-6302-/blob/main/Admapper_Project_Report.pdf) | [Slide](https://github.com/Jimpan0612/Data-Collection-and-Production-EPPS-6302-/blob/main/Network%20Structure%20of%20the%20Digital%20Advertising%20Marketplace.pdf)
 
 
----
 ### **Machine Learning**    
 
 **Interstate Affinity Prediction - Final Project**  
@@ -93,7 +91,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
   </div>
 </details>
 
----
+
 ### **SQL**  
 **Analysis of Chronic Disease Prescriptions in Major Medical Centers in Taiwan**  
 **Topic:** Database Design and Query Analysis  
@@ -103,7 +101,6 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 **Tool:** PostgreSQL, DB Browser for SQLite    
 [Code&Readme](https://github.com/Jimpan0612/Information-Management-EPPS-6354-) | [Final Paper](https://github.com/Jimpan0612/Information-Management-EPPS-6354-/blob/main/Jim_projectreport.pdf) | [Slide](https://github.com/Jimpan0612/Information-Management-EPPS-6354-/blob/main/dashboard_preview.png)
 
----
 ### **Other**  
 <details>
   <summary style="color:blue;cursor:pointer;">Details</summary>
