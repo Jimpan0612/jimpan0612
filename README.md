@@ -109,8 +109,8 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
     <strong>Big Data Analysis - project</strong><br>
     <strong>Topic:</strong> Analysis of African swine fever<br>
     <strong>Language:</strong> R<br>
-    <strong>Keyword:</strong> Big Data, Climate Change<br>
-    <strong>Tool:</strong> ggplot2, swine fever<br>
+    <strong>Keyword:</strong> Big Data, Fever<br>
+    <strong>Tool:</strong> ggplot2 <br>
     <a href="https://github.com/yourprofile/African-swine-fever-analysis">Code</a>
   </div>
 </details>
