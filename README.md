@@ -100,7 +100,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 **Description:** This project involved analyzing chronic disease prescriptions in major medical centers in Taiwan using SQL and database management techniques. The goal was to understand the distribution of prescriptions across different diseases and hospitals.  
 **Keyword:** SQL, Database Design, Data Analysis, Shinyapps.io, Healthcare  
 **Tool:** PostgreSQL, DB Browser for SQLite    
-[Code](https://github.com/Jimpan0612/Information-Management-EPPS-6354-) | [Final Paper](https://github.com/Jimpan0612/Information-Management-EPPS-6354-/blob/main/Jim_projectreport.pdf) | [Slide](https://github.com/Jimpan0612/Information-Management-EPPS-6354-/blob/main/dashboard_preview.png)
+[Code&Readme](https://github.com/Jimpan0612/Information-Management-EPPS-6354-) | [Final Paper](https://github.com/Jimpan0612/Information-Management-EPPS-6354-/blob/main/Jim_projectreport.pdf) | [Slide](https://github.com/Jimpan0612/Information-Management-EPPS-6354-/blob/main/dashboard_preview.png)
 
 ### Other
 <details>
