@@ -56,7 +56,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 **Language:** R  
 **Description:** This study examines the use of machine learning to predict generalized relationships between states, using the United States as the base of reference. International relations were measured using an aggregate affinity score derived from event data, with various socioeconomic and demographic factors used as predictive variables. Multiple models, including a regression and classification random forest and a deep learning model, were built and evaluated for their accuracy in predicting interstate affinity.  
 **Keyword:** Machine Learning, Regression, Classification, Deep Learning  
-**Tool:** TensorFlow, Keras, Random Forest, SHAP Library  
+**Tool:** TensorFlow, Keras, Random Forest    
 [Code&Readme](https://github.com/Jimpan0612/Knowledge-Mining-EPPS-6323-) | [Final Paper](https://github.com/Jimpan0612/Knowledge-Mining-EPPS-6323-/blob/main/Final%20Paper.pdf) | [Slide](https://github.com/Jimpan0612/Knowledge-Mining-EPPS-6323-/blob/main/Final%20Presentation.pdf)
 
 
