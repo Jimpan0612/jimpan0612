@@ -93,7 +93,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 
 ### **SQL**  
-**Analysis of Chronic Disease Prescriptions in Major Medical Centers in Taiwan**  
+**Analysis of Chronic Disease Prescriptions in Major Medical Centers in Taiwan - Final Project**  
 **Topic:** Database Design and Query Analysis  
 **Language:** SQL, R    
 **Description:** This project involved analyzing chronic disease prescriptions in major medical centers in Taiwan using SQL and database management techniques. The goal was to understand the distribution of prescriptions across different diseases and hospitals.  
