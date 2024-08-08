@@ -120,7 +120,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ## ![Education](https://via.placeholder.com/15/3498db/000000?text=+) Education
 
 - **Master of Science - MS, Social Data Analytics and Research**, The University of Texas at Dallas (August 2022 - May 2024)
-- **Bachelor's degree, Major in Political Science and minor in Big Data Analysis**, Soochow University (東吳大學, 政治系主修，巨量資料分析輔修)
+- **Bachelor's degree, Major in Political Science and minor in Big Data Analysis**, Soochow University, Taiwan  
 
 ---
 
