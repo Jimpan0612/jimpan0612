@@ -19,6 +19,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F61?style=flat-square&logo=python&logoColor=white)
 ![Program Evaluation](https://img.shields.io/badge/-Program_Evaluation-6A1B9A?style=flat-square)
 ![International Law](https://img.shields.io/badge/-International_Law-2C3E50?style=flat-square)
+![Political Science](https://img.shields.io/badge/-Political_Science-8A2BE2?style=flat-square)  
 
 ### Soft Skills
 
