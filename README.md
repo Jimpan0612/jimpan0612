@@ -12,6 +12,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 ![Data Visualization](https://img.shields.io/badge/-Data_Visualization-4CAF50?style=flat-square&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/-ComfyUI-F7DF1E?style=flat-square&logo=ComfyUI&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
