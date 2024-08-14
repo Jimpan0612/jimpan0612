@@ -16,6 +16,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ![ComfyUI](https://img.shields.io/badge/-ComfyUI-F7DF1E?style=flat-square&logo=ComfyUI&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![ArcGIS Pro](https://img.shields.io/badge/-ArcGIS_Pro-0072C6?style=flat-square&logo=esri&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F61?style=flat-square&logo=python&logoColor=white)
 ![Program Evaluation](https://img.shields.io/badge/-Program_Evaluation-6A1B9A?style=flat-square)
