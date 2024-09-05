@@ -33,7 +33,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ## ![Course Projects](https://via.placeholder.com/15/3498db/000000?text=+) Course Projects
 
 ### **Personal Website**
-Click the icon to see my website.
+Click the icon below to see my website.  
 [![Personal Website](https://img.shields.io/badge/-MyWebsite-00A0DC?style=flat-square&logo=internet-explorer&logoColor="#d2b48c")](https://jimpan0612.github.io)
 
 ### **Visualization** 
