@@ -34,7 +34,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 ### **Personal Website**
 Click the icon below to see my website.  
-[![Personal Website](https://img.shields.io/badge/-MyWebsite-00A0DC?style=flat-square&logo=internet-explorer&logoColor="#d2b48c")](https://jimpan0612.github.io)
+[![Personal Website](https://img.shields.io/badge/-MyWebsite-00A0DC?style=flat-square&logo=internet-explorer&logoColor=white)](https://jimpan0612.github.io)
 
 ### **Visualization** 
 **Data Analysis and Visualization Dashboard - Final Project**  
