@@ -33,9 +33,9 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ## ![Course Projects](https://via.placeholder.com/15/3498db/000000?text=+) Course Projects
 
 ### **Personal Website**
-Click [![Personal Website](https://img.shields.io/badge/-MyWebsite-00A0DC?style=flat-square&logo=internet-explorer&logoColor=white "Click to visit my website")](https://jimpan0612.github.io) or scan the QR Code to Visit My Website.
+Click the icon below to visit My Website.
 
-[<img src="https://raw.githubusercontent.com/Jimpan0612/jimpan0612.github.io/main/files/qrcode.png" alt="QR Code" width="100" height="100">](https://jimpan0612.github.io)
+[![Personal Website](https://img.shields.io/badge/-MyWebsite-00A0DC?style=flat-square&logo=internet-explorer&logoColor=white "Click to visit my website")](https://jimpan0612.github.io) 
 
 ### **Visualization** 
 **Data Analysis and Visualization Dashboard - Final Project**  
@@ -143,3 +143,6 @@ When I'm not coding, you can find me enjoying activities such as hiking, swimmin
 [![Personal Website](https://img.shields.io/badge/-MyWebsite-00A0DC?style=flat-square&logo=internet-explorer&logoColor=white)](https://jimpan0612.github.io)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com)  
 **Email:** debit_skates.0d@icloud.com
+
+[<img src="https://raw.githubusercontent.com/Jimpan0612/jimpan0612.github.io/main/files/qrcode.png" alt="QR Code" width="100" height="100">](https://jimpan0612.github.io)
+
