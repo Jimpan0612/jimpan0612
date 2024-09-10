@@ -139,10 +139,10 @@ When I'm not coding, you can find me enjoying activities such as hiking, swimmin
 
 ## ![Contact](https://via.placeholder.com/15/3498db/000000?text=+) Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chun-yen-pan-7867b0318)  
-[![Personal Website](https://img.shields.io/badge/-MyWebsite-00A0DC?style=flat-square&logo=internet-explorer&logoColor=white)](https://jimpan0612.github.io)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com)  
 **Email:** debit_skates.0d@icloud.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chun-yen-pan-7867b0318)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com)  
+[![Personal Website](https://img.shields.io/badge/-MyWebsite-00A0DC?style=flat-square&logo=internet-explorer&logoColor=white)](https://jimpan0612.github.io)  
 
 [<img src="https://raw.githubusercontent.com/Jimpan0612/jimpan0612.github.io/main/files/qrcode.png" alt="QR Code" width="100" height="100">](https://jimpan0612.github.io)
 
