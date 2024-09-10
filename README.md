@@ -33,11 +33,10 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ## ![Course Projects](https://via.placeholder.com/15/3498db/000000?text=+) Course Projects
 
 ### **Personal Website**
-Click the icon below to see my website.  
+Click the icon below or scan the QR Code to Visit My Website  
 [![Personal Website](https://img.shields.io/badge/-MyWebsite-00A0DC?style=flat-square&logo=internet-explorer&logoColor=white)](https://jimpan0612.github.io)
 
-or scan the QR Code to Visit My Website
-![QR Code](https://raw.githubusercontent.com/Jimpan0612/jimpan0612.github.io/main/files/qrcode.png)
+<img src="https://raw.githubusercontent.com/Jimpan0612/jimpan0612.github.io/main/files/qrcode.png" alt="QR Code" width="150" height="150">
 
 ### **Visualization** 
 **Data Analysis and Visualization Dashboard - Final Project**  
