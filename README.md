@@ -1,4 +1,4 @@
-## ![About Me](https://via.placeholder.com/15/3498db/000000?text=+) About Me
+## 💼 About Me
 
 **Hi, I'm Chun-Yen Pan, a passionate Data Analyst with a knack for Social Data Analytics and Research.**
 
@@ -6,7 +6,7 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 
 ---
 
-## ![Skills](https://via.placeholder.com/15/3498db/000000?text=+) Skills
+## 🛠️ Skills
 
 ### Technical Skills
 
@@ -30,9 +30,9 @@ I have a background in Political Science and Big Data Analysis from Soochow Univ
 ![Problem Solving](https://img.shields.io/badge/-Problem_Solving-3498DB?style=flat-square)
 
 
-## ![Course Projects](https://via.placeholder.com/15/3498db/000000?text=+) Course Projects
+## 📊 Course Projects
 
-### **Personal Website**
+### 🌐 **Personal Website**
 Click the icon below to visit My Website, which was built using **Quarto** for creating reproducible, interactive, and high-quality websites.  
 
 [![Personal Website](https://img.shields.io/badge/-MyWebsite-00A0DC?style=flat-square&logo=internet-explorer&logoColor=white "Click to visit my website")](https://jimpan0612.github.io) 
@@ -124,20 +124,20 @@ Click the icon below to visit My Website, which was built using **Quarto** for c
 
 ---
 
-## ![Education](https://via.placeholder.com/15/3498db/000000?text=+) Education
+## 🎓 Education
 
 - **Master of Science - MS, Social Data Analytics and Research**, The University of Texas at Dallas (August 2022 - May 2024)
 - **Bachelor's degree, Major in Political Science and minor in Big Data Analysis**, Soochow University, Taiwan  
 
 ---
 
-## ![Interests](https://via.placeholder.com/15/3498db/000000?text=+) Interests
+## 🎯 Interests
 
 When I'm not coding, you can find me enjoying activities such as hiking, swimming, reading about international news, and exploring new data visualization techniques. I am also actively learning and using ComfyUI for creating AI animations, images and various other applications. My workflow with ComfyUI involves complex tasks like video upscaling and detailed data processing, leveraging my expertise in data analysis to produce high-quality outputs. Additionally, I enjoy playing Japanese Mahjong and various board games.
 
 ---
 
-## ![Contact](https://via.placeholder.com/15/3498db/000000?text=+) Contact
+## 📬 Contact
 
 **Email:** debit_skates.0d@icloud.com  
 
